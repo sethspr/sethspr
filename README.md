@@ -9,10 +9,10 @@ I am a full-stack software engineer based in Orlando, FL who is dedicated to mas
 </div>
 &nbsp;
 
-🔭 I’m currently working on an [escrow powered budgeting app](https://github.com/sethspr/SubCycle) to disperse payments to all your subscription services. 
-🌱 I’m currently learning how to develop QA tests
-💬 Ask me about anything related to Elevators. Seriously, I worked with elevators for a decade and call answer all your mythbuster type questions. 
-⚡ Fun fact: I was born with 11 fingers. Although I currently only have 10 per the status quo. 
+-🔭 I’m currently working on an [escrow-powered budgeting app](https://github.com/sethspr/SubCycle) to disperse payments to all your subscription services. 
+-🌱 I’m currently learning how to develop QA tests
+-💬 Ask me about anything related to Elevators. Seriously, I worked with elevators for a decade and can answer all your mythbuster-type questions. 
+-⚡ Fun fact: I was born with 11 fingers. Although I currently only have 10 per the status quo. 
 
 
 <!--
