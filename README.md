@@ -6,7 +6,7 @@ I am a full-stack software engineer based in Orlando, FL who is dedicated to mas
 ---
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?perline=7&i=py,flask,js,react,html,css,materialui,postman,git,github,notion,sqlite,vite,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?perline=4&i=py,flask,js,react,html,css,materialui,postman,git,github,notion,sqlite,vite,vscode,cs,unity)](https://skillicons.dev)
 
 </div>
 
