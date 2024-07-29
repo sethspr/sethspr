@@ -11,8 +11,8 @@ I am a full-stack software engineer based in Orlando, FL who is dedicated to mas
 </div>
 
 ---
-* 🔭 I’m currently working on an [escrow-powered budgeting app](https://github.com/sethspr/SubCycle) to disperse payments to all your subscription services. 
-* 🌱 I’m currently learning Unity and C#.
+* 🔭 I’m currently working on my portfolio website where I can showcase my programs like this [escrow-powered budgeting app](https://github.com/sethspr/SubCycle); which disperse payments to all your subscription services. 
+* 🌱 I’m currently upskilling my proficiency with Python.
 * 💬 Ask me about anything related to Elevators. Seriously, I worked with elevators for a decade and can answer all your Mythbuster-type questions. 
 * ⚡ Fun fact: I was born with 11 fingers. Although I currently only have 10 per the status quo. 
 
