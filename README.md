@@ -1,7 +1,9 @@
 ### Hello there 👋
 ---
 
-I am a full-stack software engineer based in Orlando, FL who is dedicated to mastering the art of web development and building scalable, efficient applications. With a background in technical sales and leadership within the commercial construction industry, I am eager to leverage my skills and education to contribute towards innovative projects and drive impactful solutions in the tech industry.
+I am an aspiring full-stack software engineer based in Orlando, FL dedicated to creating web development applications and building scalable, efficient programs. I am most proficient, and drawn to, Python at the moment - with JavaScript/React as my next strongest language. I am a recent Flatiron School alumni where I completed the Full-Stack Software Engineering program. My previous career was in technical sales and leadership within the commercial construction industry. Now, I'm super excited to break into the Tech world and continue the journey towards becoming a software engineer. 
+
+Thanks for stopping by and looking at my work!! 
 
 ---
 <div align="center">
